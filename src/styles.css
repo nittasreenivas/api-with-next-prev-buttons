@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.prod {
+  width: 300px;
+  padding: 10px;
+  margin: 10px auto;
+  border: 2px solid red;
+}
